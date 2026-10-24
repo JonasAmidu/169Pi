@@ -54,6 +54,10 @@ a visualization. **Merged PRs get exclusive 169pi swag. 🎁**
 
 <!-- ENTRIES:START -->
 
+<img width="2048" height="2048" alt="high-level-description-a-flat-vector-con_YD1kkD8wW1CqVJQrgWWOkg_UvnOjAltSISveOI9q_oBiQ_cover" src="https://github.com/user-attachments/assets/4dfc62a0-3151-482d-90ef-fa3d9aefe967" />
+
+Club Name: CTRL + Chat
+
 ### @169pi — the first brick 🧱
 
 This wall is yours to build on. Fork the repo, add your entry right here, and
